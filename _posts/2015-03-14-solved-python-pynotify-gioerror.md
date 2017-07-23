@@ -7,6 +7,9 @@ tags:
   - Pynotify
   - gio
 ---
+This post discusses the problem of `gio.Error: Connection Closed` error in Pynotify, its causes and steps to solve the problem. 
+
+
 Pynotify
 ======
 Pynotify is a Python package providing tools for implementing Observer programming pattern. These tools include signals, conditions and variables. Pynotify comes handy when one wants to write a script which outputs some "notification" pop-up on the desktop. Pynotify relies on Dbus IPC bus and problem occurred in Dbus may cause Pynotify to break. There is a well-known problem that usually occurs while using Pynotify. We discuss the problem below and solution to overcome the problem.
