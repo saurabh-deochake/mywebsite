@@ -32,6 +32,10 @@ Work experience
 * **Part Time Lecturer at Rutgers University** (Sep 2016-Dec 2017)
   * Constructed, implemented and executed an effective lesson plan for a diverse group of college students
   * Taught logic and thought building techniques for programming using Scratch
+ 
+* **Other** (Jan 2016-Jan 2017)
+  * Grader: Grader for CS336- Principles of Information and Data Management under the guidance of Prof. Tomasz Imielinski. Graded the assignments, quizzes, mini projects and semester-long project
+  * Graduate Student Worker: Worked as a student worker for Rutgers Dining and Rutgers Facilities and Urban Planning department
   
  
  Skills
