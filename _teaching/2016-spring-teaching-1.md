@@ -13,11 +13,3 @@ location: "New Brunswick, New Jersey"
 - Discussed and collaborated with professors and students to produce an effective lesson plan
 - Taught logic and thought building techniques using Scratch
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
