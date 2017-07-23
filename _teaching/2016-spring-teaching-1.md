@@ -2,7 +2,7 @@
 title: "Part Time Lecturer"
 collection: teaching
 type: "Undegraduate Course"
-#permalink: /teaching/2016-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "Rutgers University, Computer Science"
 date: 2016-09-01
 location: "New Brunswick, New Jersey"
