@@ -1,7 +1,7 @@
 ---
 title: '[Solved] Python Pynotify- gio.Error: The connection is closed'
 date: 2015-03-14
-permalink: /posts/2015/03/blog-post-1/
+permalink: /posts/2015/03/post-1/
 tags:
   - Python
   - Pynotify
