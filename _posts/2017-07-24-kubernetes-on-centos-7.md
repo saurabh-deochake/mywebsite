@@ -46,7 +46,8 @@ On each of your three machines- including master node and two worker nodes- inst
   There is a good chance that you might not be able to connect to docs.docker.com, so you may want to install docker.repo on your local   windows machine first and then transfer that repo file to /etc/yum.repos.d/ directory in each of three machines using tools like      WinSCP (on Windows) or create a new repo file.   
   
   * **List all packages**       
-  Now, we check all versions of Docker that are offered in the repo we added above. As we know that Kubernetes kubeadm is not tested extensively on Docker 1.13 and 17.03+ versions, we install Docker 1.12 version.    
+  Now, we check all versions of Docker that are offered in the repo we added above. As we know that Kubernetes kubeadm is not tested extensively on Docker 1.13 and 17.03+ versions, we install Docker 1.12 version.
+
   ```bash
   $ yum list docker-engine.x86_64  --showduplicates | sort –r
 
@@ -54,7 +55,8 @@ On each of your three machines- including master node and two worker nodes- inst
   docker-engine.x86_64     1.12.6-1.el7.centos              docker-main   
   docker-engine.x86_64     1.11.2-1.el7.centos              docker-main   
   ```
-  We will install Docker version 1.12 on all our machines in the setup.   
+  
+We will install Docker version 1.12 on all our machines in the setup.   
 
   * **Install and start Docker on all machines**       
   ```bash
