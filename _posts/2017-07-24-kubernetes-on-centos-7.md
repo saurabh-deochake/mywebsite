@@ -48,8 +48,7 @@ On each of your three machines- including master node and two worker nodes- inst
   * **List all packages**       
   Now, we check all versions of Docker that are offered in the repo we added above. As we know that Kubernetes kubeadm is not tested extensively on Docker 1.13 and 17.03+ versions, we install Docker 1.12 version.    
   ```bash
-  
-  $ yum list docker-engine.x86_64  --showduplicates |sort –r
+  $ yum list docker-engine.x86_64  --showduplicates | sort –r
 
   docker-engine.x86_64     1.13.1-1.el7.centos              docker-main   
   docker-engine.x86_64     1.12.6-1.el7.centos              docker-main   
