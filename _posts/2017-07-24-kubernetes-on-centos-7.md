@@ -201,10 +201,12 @@ In this section, we will mention various problem that you may encounter during t
 * **Problem**: Kubeadm init stuck at “Waiting for the control plane to become ready”     
 **Fix**:  The cluster fails to initialize and is stuck at “waiting for the control plane to become ready”. The cluster is not waiting for services tied to control plane but it is stuck waiting because our Docker containers failed to launch. The root of the problem is that Docker tries to fetch images for containers but fails because it cannot go through the proxy. To work around this, please follow below steps to mention http_proxy variable for Docker environment.    
 
-	* Create a systemd directory for Docker service    
+	* Create a systemd directory for Docker service  
+  
 	`$ mkdir /etc/systemd/system/docker.service.d`     
 	
 	* Now, create an environment variable configuration file to hold our http proxy variable.     
+	
 	```bash
 	$ vim /etc/systemd/system/docker.service.d/http-proxy.conf
 	
@@ -227,7 +229,8 @@ In this section, we will mention various problem that you may encounter during t
 	HTTP_PROXY=HTTP_PROXY=<http://proxy.something.com:port>
 
 	$ service docker restart
-	```    
+	``` 
+   
 * **Problem**: Error message: `misconfiguration: kubelet cgroup driver: "systemd" is different from docker cgroup driver: "cgroupfs"`    
 **Fix**: When you run kubectl get nodes to get all nodes in the cluster, you may not get all nodes listed in the output of the command.    
 	```bash
@@ -245,6 +248,7 @@ In this section, we will mention various problem that you may encounter during t
 	* Reload kubelet daemon with systemctl –deamon-reload     
 
 	You should see all your nodes in the cluster.     
+	
 	```bash
 	$ kubectl get nodes
 
