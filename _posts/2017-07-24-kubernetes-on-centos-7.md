@@ -1,11 +1,13 @@
 ---
-title: '[Solved] Python Pynotify- gio.Error: The connection is closed'
-date: 2015-03-14
-permalink: /posts/2015/03/post-1/
+title: 'Kubernetes Cluster on CentOS 7'
+date: 2017-07-24
+permalink: /posts/2017/07/post-1/
 tags:
-  - Python
-  - Pynotify
-  - gio
+  - kubernetes
+  - docker
+  - cloud
+  - centos
+  - orchestration
 ---
 This is a thorough tutorial on setting up Kubernetes cluster on CentOS 7 servers. This is a step-by-step tutorial which also discusses potential problems that may be faced and how to solve them. 
 
