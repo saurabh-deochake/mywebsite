@@ -1,6 +1,5 @@
 ---
-title: "Evently : A Social Media Bot for Finding Friends at an Event [![star this repo](http://githubbadges.com/star.svg?user=ddavison&repo=github-badges)](https://github.com/saurabh-deochake/comp-networks-project)
-[![fork this repo](http://githubbadges.com/fork.svg?user=ddavison&repo=github-badges)](https://github.com/saurabh-deochake/comp-networks-project/fork)"
+title: "Evently : A Social Media Bot for Finding Friends at an Event"
 excerpt: "Evently is a social media bot which helps its user to list all the events using a keyword or a location and find all the friends who will attend that event.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
