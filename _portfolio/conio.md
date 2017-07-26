@@ -9,7 +9,7 @@ A command line tool for automatic containerized I/O benchmarking of cloud storag
 collection: portfolio
 ---
 
-"[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio)
+[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio)
 [![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio/fork) 
 
 A command line tool for automatic containerized I/O benchmarking of cloud storage. The tool spawns a numer of Docker containers mentioned in the options and runs the I/O benchmarking on the cloud storage. I authored this tool while I was working as a Cloud Software Engineer Intern at Intel Corporation. <br/> Built Using: Python, Docker
