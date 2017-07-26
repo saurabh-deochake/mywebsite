@@ -1,5 +1,5 @@
 ---
-title: "Air Bot- Get air quality in your city by a tweet"
+title: "Air Bot- Get Air Quality in Your City by a Tweet"
 excerpt: "[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=air-bot)](https://github.com/saurabh-deochake/air-bot)
 [![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=air-bot)](https://github.com/saurabh-deochake/live-twitter-notifications/air-bot) <br/><br/>
 A Twitter bot which replies with Air Quality Index of a city on tweeting #airqualityin followed by name of the city. <br/> Built Using: Python, Twitter API
