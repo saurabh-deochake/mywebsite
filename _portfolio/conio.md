@@ -1,7 +1,7 @@
 ---
 title: "Conio- A Command Line Tool for Containerized I/O Benchmarking of Cloud Storage"
 excerpt: "[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio)
-[![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio/fork) [Private Repo] <br/><br/>
+[![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=Topik)](https://github.com/saurabh-deochake/conio/fork) **[Private Repo]** <br/><br/>
 A command line tool for automatic containerized I/O benchmarking of cloud storage. The tool spawns a numer of Docker containers mentioned in the options and runs the I/O benchmarking on the cloud storage.
  <br/> Built Using: Python, Docker
 
