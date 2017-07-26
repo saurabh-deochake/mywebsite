@@ -2,7 +2,7 @@
 title: "Evently : A Social Media Bot for Finding Friends at an Event"
 excerpt: "[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=comp-networks-project)](https://github.com/saurabh-deochake/comp-networks-project)
 [![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=comp-networks-project)](https://github.com/saurabh-deochake/comp-networks-project/fork) <br/><br/>
-Evently is a social media bot which helps its user to list all the events using a keyword or a location and find all the friends who will attend that event. Built using: Python, Flask, Graph API, Bootstrap, JavaScript/JQuery, Html, CSS.
+Evently is a social media bot which helps its user to list all the events using a keyword or a location and find all the friends who will attend that event. <br/>Built using: Python, Flask, Graph API, Bootstrap, JavaScript/JQuery, Html, CSS.
 "
 collection: portfolio
 ---
