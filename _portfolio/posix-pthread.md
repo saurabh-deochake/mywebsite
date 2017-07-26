@@ -3,11 +3,10 @@ title: "POSIX Pthread Library with Multi-level Feedback CPU Scheduler"
 excerpt: "[![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=POSIX-Pthread-Scheduler)](https://github.com/saurabh-deochake/POSIX-Pthread-Scheduler)
 [![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=POSIX-Pthread-Scheduler)](https://github.com/saurabh-deochake/POSIX-Pthread-Scheduler/fork) <br/><br/>
 This project is a library named "my_pthread_t.h" that contains implementations of all the primitive functions of original pthread library.
-
-Built using: C
-"
+Built using: C"
 collection: portfolio
 ---
+
 [![star this repo](http://githubbadges.com/star.svg?user=saurabh-deochake&repo=POSIX-Pthread-Scheduler)](https://github.com/saurabh-deochake/POSIX-Pthread-Scheduler)
 [![fork this repo](http://githubbadges.com/fork.svg?user=saurabh-deochake&repo=POSIX-Pthread-Scheduler)](https://github.com/saurabh-deochake/POSIX-Pthread-Scheduler/fork)
 
