@@ -10,7 +10,6 @@ redirect_from:
 
 
 Download the latest copy of my resume [**here**](https://github.com/saurabh-deochake/saurabh-deochake.github.io/raw/master/files/Saurabh%20Deochake%20Resume.pdf).
-------------------------
 
 Education
 ======
