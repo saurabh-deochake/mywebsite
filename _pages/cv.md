@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <a href=https://github.com/saurabh-deochake/saurabh-deochake.github.io/raw/master/files/Saurabh%20Deochake%20Resume.pdf">Download</a>  "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
