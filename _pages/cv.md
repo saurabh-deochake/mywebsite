@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Downnload the latest copy of my resume [here](https://github.com/saurabh-deochake/saurabh-deochake.github.io/raw/master/files/Saurabh%20Deochake%20Resume.pdf).    
+
 Education
 ======
 * B.E. in Information Technology, University of Pune, India, 2012
