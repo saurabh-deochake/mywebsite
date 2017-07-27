@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-   
-
 {% include base_path %}     
+
+
 Download the latest copy of my resume [**here**](https://github.com/saurabh-deochake/saurabh-deochake.github.io/raw/master/files/Saurabh%20Deochake%20Resume.pdf).
 ------------------------
 
