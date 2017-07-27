@@ -9,6 +9,7 @@ redirect_from:
    
 
 {% include base_path %} 
+<a href="https://github.com/saurabh-deochake/saurabh-deochake.github.io/raw/master/files/Saurabh%20Deochake%20Resume.pdf">Download</a>
 
 Education
 ======
