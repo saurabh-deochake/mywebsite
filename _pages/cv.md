@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://github.com/saurabh-deochake/saurabh-deochake.github.io/blob/master/files/Saurabh%20Deochake%20Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/saurabh-deochake/saurabh-deochake.github.io/blob/master/files/Saurabh%20Deochake%20Resume.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/saurabh-deochake/saurabh-deochake.github.io/blob/master/files/Saurabh%20Deochake%20Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
 * B.E. in Information Technology, University of Pune, India, 2012
