@@ -70,6 +70,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+- Graduate Lecturer (PTL) for CS110: Introduction to Computer Science and Applications under the guidance of Prof. Fran Trees
+- Constructed, implemented and executed an effective lesson plan for a diverse group of college students
+- Discussed and collaborated with professors and students to produce an effective lesson plan
+- Taught logic and thought building techniques using Scratch
+  
 Awards and Leadership
 ======
 * Managed and lead a team of 8 students in Accolade, the national technical event of the department of my undergraduate school
