@@ -10,7 +10,7 @@ tags:
   - libvirt
 ---
 
-This problem occurs especially when LXC Containers are run on a host machine with CentOS distribution. When we want to create an user inside the container, we get an error which says "..... is not authorized to change the password of <user_name>.
+This problem occurs especially when LXC Containers are run on a host machine with CentOS distribution. When we want to create an user inside the container, we get an error which says `..... is not authorized to change the password of <user_name>`.    
 
 The Problem
 ========
