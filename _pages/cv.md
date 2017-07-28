@@ -57,6 +57,11 @@ Work experience
 * Project Management:
   * GitHub, Agile
 
+Projects
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -70,10 +75,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  * Graduate Lecturer (PTL) for CS110: Introduction to Computer Science and Applications under the guidance of Prof. Fran Trees
-  * Constructed, implemented and executed an effective lesson plan for a diverse group of college students
-  * Discussed and collaborated with professors and students to produce an effective lesson plan
-  * Taught logic and thought building techniques using Scratch
   
 Awards and Leadership
 ======
