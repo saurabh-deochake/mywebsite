@@ -21,6 +21,9 @@ main:
   - title: "CS110"
     url: /cs110
     
+  - title: "Activities"
+    url: /activities
+    
   - title: "CV"
     url: /cv/
     
