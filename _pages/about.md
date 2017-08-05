@@ -16,7 +16,7 @@ feature_row:
   - image_path: intel.png
     alt: "intel"
     title: "Intel Corporation"
-    excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area."
+    excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area using Docker managed by orchestrators like Kubernetes "
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: ntt.png
