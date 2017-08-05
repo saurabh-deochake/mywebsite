@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Download Resume"
   cta_url: "/files/Saurabh%20Deochake%20Resume.pdf"
   caption:
-excerpt: 'Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Contact me</a><br />'        
+excerpt: 'Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a><br />'        
 feature_row:
   - image_path: rutgers.png
     alt: "rutgers"
@@ -27,8 +27,7 @@ feature_row:
     excerpt: "I used to work as Software Engineer at Open Source Software R&D Center of Japanese tech giant NTT Data Americas. My work mainly involved R&D in cloud compute and virtualization."
     url: "/cv"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+
 intro:
   - excerpt: 'Connect with me on social media: &nbsp; [<i class="fa fa-github"></i> GitHub](https://github.com/saurabh-deochake){: .btn .btn--github} [<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/saurabhdeochake){: .btn .btn--linkedin} [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/saurabhd04){: .btn .btn--twitter} [<i class="fa fa-facebook"></i> Facebook](https://facebook.com/saurabh.deochake){: .btn .btn--facebook}'
 ---
