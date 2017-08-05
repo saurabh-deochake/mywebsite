@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/mm-home-page-feature.jpg
+  overlay_image: mm-home-page-feature.jpg
   caption:
 excerpt: Graduate Student, Cloud Enthusiast, I write software
 feature_row:
