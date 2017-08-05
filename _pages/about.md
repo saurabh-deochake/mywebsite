@@ -10,7 +10,7 @@ feature_row:
   - image_path: rutgers.png
     alt: "rutgers"
     title: "Rutgers University"
-    excerpt: "At Rutgers, I am a graduate student studying Computer Science. I also teach an undergraduate course at the department."
+    excerpt: "At Rutgers, I am a graduate student studying Computer Science with specialization in Distributed System/Cloud Computing. I also teach an undergraduate course at the department."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: intel.png
