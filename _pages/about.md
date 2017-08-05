@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="/images/cloud.jpg" width="200%">
+<img src="/images/cloud.jpg" width="100%">
 
 I am a Graduate Student studying at Rutgers University. My specialization and area of research is Distributed System/Cloud Computing. I am also currently working as a part time lecturer at Rutgers University's Computer Science department.
 
