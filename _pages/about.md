@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/cloud.jpg" width=700 />
+<img src="/images/cloud.jpg" width=700 >
 I am a Graduate Student studying at Rutgers University. My specialization and area of research is Distributed System/Cloud Computing. I am also currently working as a part time lecturer at Rutgers University's Computer Science department.
 
 During Summer of 2017- June to August 2017, I worked for Intel Corporation as Cloud Software Engineer Intern at Innovation, Pathfinding Architecture Group. During my stay at Intel, I researched extensively in the field of Cloud Storage and Compute area and developed a command line tool and Intel Snap plugin for Cloud Storage. 
