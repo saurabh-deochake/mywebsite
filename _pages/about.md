@@ -7,7 +7,7 @@ header:
   caption:
 excerpt: Graduate Student, Cloud Enthusiast, I write software
 feature_row:
-  - image_path: rutgers.png
+  - image_path: rutgers1.png
     alt: "customizable"
     title: "Rutgers University"
     excerpt: "At Rutgers, I am a graduate student studying Computer Science. I also teach an undergraduate course at the department."
