@@ -2,25 +2,34 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-<img src="/images/cloud.jpg" width="200%">
 
-I am a Graduate Student studying at Rutgers University. My specialization and area of research is Distributed System/Cloud Computing. I am also currently working as a part time lecturer at Rutgers University's Computer Science department.
+<html>
+<body>
+<div class="page__hero--overlay" style="background-color: #5e616c; background-image: url('https://mmistakes.github.io/minimal-mistakes/assets/images/mm-home-page-feature.jpg');">
+  
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline">
+        
+          Minimal Mistakes
 
-During Summer of 2017- June to August 2017, I worked for Intel Corporation as Cloud Software Engineer Intern at Innovation, Pathfinding Architecture Group. During my stay at Intel, I researched extensively in the field of Cloud Storage and Compute area and developed a command line tool and Intel Snap plugin for Cloud Storage. 
-
-I graduated with Bachelor of Engineering with Information Technology as a major from University of Pune, India. I previously worked as a Software Engineer at Open Source Software R&D Center of NTT DATA Americas. 
-
-* My areas of interest are:
-  * Distributed Systems/Cloud Computing 
-  * Virtualization and Containers 
-  * Cloud Infrastructure Orchestration 
-
-In past, I have worked on the following research areas:
-  * Web Services
-  * B2B/B2C e-Commerce
-
+        
+      </h1>
+      
+        <p class="page__lead">A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.5.0">Latest release v4.5.0</a></small><br><br> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=star&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=fork&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+</p>
+      
+      
+      
+        <p><a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/" class="btn btn--light-outline btn--large"><i class="fa fa-download"></i> Install Now</a></p>
+      
+    </div>
+  
+  
+</div>
+</body>
+</html>
