@@ -7,22 +7,22 @@ header:
   caption:
 excerpt: Graduate Student, Cloud Enthusiast, I write software
 feature_row:
-  - image_path: /images/rutgers.png
+  - image_path: rutgers.png
     alt: "customizable"
     title: "Rutgers University"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "At Rutgers, I am a graduate student studying Computer Science. I also teach an undergraduate course at the department."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: /images/intel.png
+  - image_path: intel.png
     alt: "fully responsive"
     title: "Intel Corporation"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: /images/ntt.png
+  - image_path: ntt.png
     alt: "100% free"
     title: "NTT Data Americas"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    excerpt: "I used to work as Software Engineer at Open Source Software R&D Center of Japanese tech giant NTT Data Americas. My work mainly involved R&D in cloud compute and virtualization."
     url: "/docs/license/"
     btn_label: "Learn More"
 github:
