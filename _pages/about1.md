@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /ok
 layout: splash
 title: ""
 excerpt: "About me"
