@@ -19,7 +19,7 @@ feature_row:
     excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: ntt1.png
+  - image_path: ntt1.jpg
     alt: "100% free"
     title: "NTT Data Americas"
     excerpt: "I used to work as Software Engineer at Open Source Software R&D Center of Japanese tech giant NTT Data Americas. My work mainly involved R&D in cloud compute and virtualization."
