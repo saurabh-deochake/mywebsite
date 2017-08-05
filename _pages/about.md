@@ -13,7 +13,7 @@ feature_row:
     excerpt: "At Rutgers, I am a graduate student studying Computer Science. I also teach an undergraduate course at the department."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: intel1edited.jpg
+  - image_path: inteledited.jpg
     alt: "fully responsive"
     title: "Intel Corporation"
     excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area."
