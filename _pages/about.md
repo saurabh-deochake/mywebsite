@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Download Resume"
   cta_url: "/files/Saurabh%20Deochake%20Resume.pdf"
   caption:
-excerpt: 'Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a><br />'        
+excerpt: '<br/>Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a>'        
 feature_row:
   - image_path: rutgers.png
     alt: "rutgers"
