@@ -2,12 +2,12 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<img src="/images/cloud.jpg" width="700">
+<img src="/images/cloud.jpg" width="100%">
 
 I am a Graduate Student studying at Rutgers University. My specialization and area of research is Distributed System/Cloud Computing. I am also currently working as a part time lecturer at Rutgers University's Computer Science department.
 
