@@ -36,3 +36,6 @@ If you wish to disable cookies, you may do so through your web browser options. 
 ### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+
+### Disclaimer
+All product names, logos, and brands are property of their respective owners. I do not intend to violate any copyright laws. If you want me to take down some specific content which may have violated any laws, feel free to [contact me](mailto:saurabh.deochake@gmail.com).
