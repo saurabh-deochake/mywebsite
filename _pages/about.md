@@ -7,19 +7,19 @@ header:
   caption:
 excerpt: Graduate Student, Cloud Enthusiast, I write software
 feature_row:
-  - image_path: rutgers1edited.jpg
+  - image_path: rutgers.png
     alt: "rutgers"
     title: "Rutgers University"
     excerpt: "At Rutgers, I am a graduate student studying Computer Science. I also teach an undergraduate course at the department."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: inteledited.jpg
+  - image_path: intel.png
     alt: "intel"
     title: "Intel Corporation"
     excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: ntt1editededited.jpg
+  - image_path: ntt.png
     alt: "ntt"
     title: "NTT Data Americas"
     excerpt: "I used to work as Software Engineer at Open Source Software R&D Center of Japanese tech giant NTT Data Americas. My work mainly involved R&D in cloud compute and virtualization."
