@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Download Resume"
+  cta_label: "</br></br><i class='fa fa-download'></i> Download Resume"
   cta_url: "/files/Saurabh%20Deochake%20Resume.pdf"
   caption:
 excerpt: Graduate Student in Computer Science focussing on Distributed Systems, Cloud Enthusiast, I write software. When I am not working, I love watching football.          
