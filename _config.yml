@@ -233,6 +233,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
   # _talks
   #- scope:
   #    path: ""
