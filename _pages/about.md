@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Learn More"
   - image_path: mit.png
     alt : "mit"
-    title: University of Pune
+    title: "University of Pune"
     excerpt: "I graduated from University of Pune, India with Bachelor of Engineering majoring in Information Technnology. My primary area of research was Distributed Systems and my work was published in various conferences."
     url: "/cv"
     btn_label: "Learn More"
