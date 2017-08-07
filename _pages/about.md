@@ -27,12 +27,6 @@ feature_row:
     excerpt: "I used to work as Software Engineer at Open Source Software R&D Center of Japanese tech giant NTT Data Americas. My work mainly involved R&D in cloud compute and virtualization."
     url: "/cv"
     btn_label: "Learn More"
-  - image_path: mit.png
-    alt : "mit"
-    title: "University of Pune"
-    excerpt: "I graduated from University of Pune, India with Bachelor of Engineering majoring in Information Technnology. My primary area of research was Distributed Systems and my work was published in various conferences."
-    url: "/cv"
-    btn_label: "Learn More"
 
 intro:
   - excerpt: 'Connect with me on social media: &nbsp; [<i class="fa fa-github"></i> GitHub](https://github.com/saurabh-deochake){: .btn .btn--github} [<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/saurabhdeochake){: .btn .btn--linkedin} [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/saurabhd04){: .btn .btn--twitter} [<i class="fa fa-facebook"></i> Facebook](https://facebook.com/saurabh.deochake){: .btn .btn--facebook}'
