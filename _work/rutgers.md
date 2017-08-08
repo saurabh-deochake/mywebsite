@@ -5,5 +5,5 @@ permalink: /work/rutgers
 location: "New Brunswick, New Jersey"
 ---
 
-This is Rutgers
-====
+{% include figure image_path="/images/rutgers.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
