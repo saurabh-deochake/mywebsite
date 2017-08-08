@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Learn More"
 
 intro:
-  - excerpt: 'Connect with me on social media: &nbsp; [<i class="fa fa-github"></i> GitHub](https://github.com/saurabh-deochake){: .btn .btn--github} [<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/saurabhdeochake){: .btn .btn--linkedin} [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/saurabhd04){: .btn .btn--twitter} [<i class="fa fa-facebook"></i> Facebook](https://facebook.com/saurabh.deochake){: .btn .btn--facebook}'
+  - excerpt: 'Connect with me on social media: &nbsp;<br> [<i class="fa fa-github"></i> GitHub](https://github.com/saurabh-deochake){: .btn .btn--github} [<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/saurabhdeochake){: .btn .btn--linkedin} [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/saurabhd04){: .btn .btn--twitter} [<i class="fa fa-facebook"></i> Facebook](https://facebook.com/saurabh.deochake){: .btn .btn--facebook}'
 ---
 
 {% include feature_row id="intro" type="center" %}
