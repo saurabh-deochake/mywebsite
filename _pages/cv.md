@@ -20,9 +20,9 @@ Work experience
 ======
 * **Cloud Software Engineer Intern at Intel Corporation** (Jun 2017-Aug 2017)
   * Performed research on NVMe over Fabrics (NVMe-oF) as a scalable Cloud Storage solution
-  * Developed a prototype on NVMe-oF with solid state drive to derive a scalable, low latency and high performing Cloud Storage solution in Intel Rack Scale DesignTM data centers
+  * Researched on a prototype on NVMe-oF with solid state drive to derive a scalable, low latency and high performing Cloud Storage solution in Intel Rack Scale DesignTM data centers
   * Implemented ‘conio’-a command-line tool for automated I/O benchmarking of Docker containers on NVMe volumes using Python. This tool is used by several teams for quick I/O benchmarking of containers
-  * Implemented Intel Snap plugin using Go to extract NVMe-based cloud storage telemetry and monitor NVMe Over Fabrics using Docker containers orchestrated by Kubernetes
+  * Implemented and contributed to Intel Snap plugin using Go to extract NVMe-based cloud storage telemetry and monitor NVMe Over Fabrics using Docker containers orchestrated by Kubernetes
 
 * **Software Engineer at NTT Data Americas** (Jul 2012-Mar 2014)
   * Designed and implemented Central Logging System and ‘Backup and Restore’ System of GresCubeTM: a commercial distributed database service which guarantees minimal downtime and enhanced business continuity
