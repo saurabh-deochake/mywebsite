@@ -7,6 +7,7 @@ venue: "Rutgers University, Computer Science"
 date: 2016-09-01
 location: "New Brunswick, New Jersey"
 ---
+Fall 2017 students, visit the course page [**here**](http://saurabh-deochake.github.io/cs110).
 
 - Graduate Lecturer (PTL) for CS110: Introduction to Computer Science and Applications under the guidance of Prof. Fran Trees
 - Constructed, implemented and executed an effective lesson plan for a diverse group of college students
