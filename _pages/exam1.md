@@ -35,7 +35,7 @@ The problems that I have mentioned below are some of important question types. T
 5. What is cryptography?
 6. Consider the network below where A,B,C,D, and E are computers connected to each other by the lines joining them.    
       * How many paths are there for information to be routed between computers A and D?
-      * What is the least number of connections need to be cut before E cannot communicate with D?<br/><br/><img src='/images/cs110.png' width="500" height="300" align="middle">     
+      * What is the least number of connections need to be cut before E cannot communicate with D?<br/><br/><img src='/images/cs110.PNG' width="500" height="300" align="middle">     
 7. What is bandwidth? What is latency? What is a correlation between both of them?
 
 ### Internet and World Wide Web
