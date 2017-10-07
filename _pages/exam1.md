@@ -49,4 +49,4 @@ The problems that I have mentioned below are some of important question types. T
 
 *To be continued further...
 
-*Note: The questions above are taken from all the study guides that have been posted on Sakai. This is not an exhaustive list by any means. I would strongly suggest you to go through all the questions in the study guide for better preparation. 
+***Note**: The questions above are taken from all the study guides that have been posted on Sakai. This is not an exhaustive list by any means. I would strongly suggest you to go through all the questions in the study guide for better preparation. 
