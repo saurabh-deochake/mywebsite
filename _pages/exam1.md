@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Welcome to CS110"
+title: "Hourly Exam #1 Question Bank"
 permalink: /cs110/exam1
 author_profile: true
 ---
 {% include base_path %} 
 
-Hourly Exam #1 Question Bank
-===
 The problems that I have mentioned below are some of important question types. The list below should not be considered as an exhaustive list by any means. 
-
 ## Computer Basics
 1. Define RAM, ROM, Volatile and Non-volatile memory, SaaS.
 2. What is the difference between RAM and ROM, 32 bit and 64 bit processor, dual-core and quad-core processors.
@@ -28,6 +25,7 @@ The problems that I have mentioned below are some of important question types. T
 5. In the movie, “The Martian”, Mark Watney uses a hexadecimal system to communicate with NASA.     
       * Why did he choose to use this system?
       * Using Watney’s system, what is the following message: 57 45 4C 43 4F 4D 45
+6. Convert any pattern involving numbers to binary. (For example, IP Address, MAC Address)
       
 ## Computer Networks
 1. Compare and contrast peer-to-peer networks with client-server networks.
@@ -37,5 +35,18 @@ The problems that I have mentioned below are some of important question types. T
 5. What is cryptography?
 6. Consider the network below where A,B,C,D, and E are computers connected to each other by the lines joining them.    
       * How many paths are there for information to be routed between computers A and D?
-      * What is the least number of connections need to be cut before E cannot communicate with D?
-      
+      * What is the least number of connections need to be cut before E cannot communicate with D?<br/><br/><img src='/images/cs110.png' width="500" height="300" align="middle">     
+7. What is bandwidth? What is latency? What is a correlation between both of them?
+
+### Internet and World Wide Web
+1. Describe in brief what do you mean by Distributed Denial of Service Attack (DDoS)?
+2. What is the functionality of web crawler?
+3. What is Domain Name System/Server (DNS)? How does DNS help you browse the internet?
+4. What is IP address? What are two types of IP addresses? What is MAC address?
+5. How is MAC address different from IP address?
+6. What are cookies? What is the use of cookies?
+7. Define Phishing, Spoofing, Pharming.
+
+*To be continued further...
+
+*Note: The questions above are taken from all the study guides that have been posted on Sakai. This is not an exhaustive list by any means. I would strongly suggest you to go through all the questions in the study guide for better preparation. 
