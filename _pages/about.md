@@ -9,16 +9,16 @@ header:
   caption:
 excerpt: '<br/>Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a>'        
 feature_row:
-  - image_path: rutgers.png
-    alt: "rutgers"
-    title: "Rutgers University"
-    excerpt: "At Rutgers, I am a graduate student studying Computer Science with specialization in Distributed System/Cloud Computing. I also teach an undergraduate course at the department."
+  - image_path: socgen.png
+    alt: "socgen"
+    title: "Societe Generale"
+    excerpt: "Being a Site Reliability Engineer, I write software solution to ensure the reliability of a large latency-sensitive high-frequency trading infrastructure in the US"
     url: "/cv"
     btn_label: "Learn More"
   - image_path: intel.png
     alt: "intel"
     title: "Intel Corporation"
-    excerpt: "I work as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area using Docker managed by orchestrators like Kubernetes "
+    excerpt: "I worked as Cloud Software Engineer Intern at Intel's Datacenter Group. My work has been mainly in the fields of cloud compute and cloud storage area using Docker managed by orchestrators like Kubernetes "
     url: "/cv"
     btn_label: "Learn More"
   - image_path: ntt.png
