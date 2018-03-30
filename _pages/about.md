@@ -9,7 +9,7 @@ header:
   caption:
 excerpt: '<br/>Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a>'        
 feature_row:
-  - image_path: socgen.PNG
+  - image_path: socgen.png
     alt: "socgen"
     title: "Societe Generale"
     excerpt: "Being a Site Reliability Engineer, I write software solution to ensure the reliability of a large latency-sensitive high-frequency trading infrastructure in the US"
