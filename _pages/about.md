@@ -7,12 +7,12 @@ header:
   cta_label: "<i class='fa fa-download'></i> Download Resume"
   cta_url: "/files/Updated%20-%20Saurabh%20Deochake%20Resume.pdf"
   caption:
-excerpt: '<br/>Graduate Student in Computer Science specializing in Distributed Systems, Cloud enthusiast, I write software. When I am not working, I love watching football.<br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a>'        
+excerpt: '<br/>Site Reliability Engineer and Cloud Enthusiast. When I am not working, I love watching football.<br /><br /><br /><br /><a href="mailto:saurabh.deochake@gmail.com">Have something to share?</a>'        
 feature_row:
   - image_path: socgen.png
     alt: "socgen"
     title: "Societe Generale"
-    excerpt: "Being a Site Reliability Engineer, I write software solution to ensure the reliability of a large latency-sensitive high-frequency trading infrastructure in the US"
+    excerpt: "Being a Site Reliability Engineer, I write software solutions to ensure the reliability of a large latency-sensitive high-frequency trading infrastructure in the United States, Canada and South America"
     url: "/cv"
     btn_label: "Learn More"
   - image_path: intel.png
