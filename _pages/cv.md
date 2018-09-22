@@ -18,6 +18,14 @@ Education
 
 Work experience
 ======
+* **Site Reliability Engineer at Societe Generale** (Feb 2018-Current)
+  * Applying Site Reliability and DevOps practices at a low-latency and high-frequency trading production environment primarily targeting North American and South American Stock, Options and Futures Exchanges
+  * Implement software solutions to monitor high-frequency trading production platform using Python and Bash
+  * Providing production support to ensure reliablility and high-availablity on a massively distributed production system
+  * Research and implement ways to maintain a complete Continuous Integration-Continuous Deployment cycle by maintaining the uniform configuration across hundreds of servers by developing playbooks using Ansible and provisioning automated builds using Jenkins
+  * Implementing micro-services architecture of the monitoring tools using Docker containers
+  * Releasing new features of internal trading software used worldwide by the traders and support teams
+
 * **Cloud Software Engineer Intern at Intel Corporation** (Jun 2017-Aug 2017)
   * Performed research on NVMe over Fabrics (NVMe-oF) as a scalable Cloud Storage solution
   * Researched on a prototype on NVMe-oF with solid state drive to derive a scalable, low latency and high performing Cloud Storage solution in Intel Rack Scale DesignTM data centers
